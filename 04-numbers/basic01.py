@@ -19,7 +19,7 @@ x = a , y ,z
 
 a +1 , y* 2 
 
-# comparison operations
+
 # comparison operations
 print(a == y)  # False
 print(a != y)  # True
